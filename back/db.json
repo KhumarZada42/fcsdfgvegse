@@ -1,0 +1,19 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "title": "Anya card",
+            "img": "https://divedigital.id/wp-content/uploads/2022/07/1-Anya-Forger-HEH-Face.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Loid card",
+            "img": "https://staticg.sportskeeda.com/editor/2022/06/10303-16562425755384-1920.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Yor card",
+            "img": "https://preview.redd.it/g0zz7c5a2g091.png?auto=webp&s=c9a07b8f797e917f4621fe53d2494a07dcecb1a8"
+        }
+    ]
+}
